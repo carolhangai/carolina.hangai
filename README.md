@@ -4,7 +4,7 @@
 - ⚖ Formada em Direito.
 - 🎓 Atualmente estudante de Programação no IFPR.
 - 🌱 Aprendendo PYTHON, HTML, CSS, SQL.
-- 🔮 Pretendo aprender CSS, JavaScript e me aprofundar em Banco de Dados.
+- 🔮 Pretendo aprender JavaScript e me aprofundar em Banco de Dados.
 - 🤔 Ainda não decidi área de atuação.
 - 📫 Como me encontrar: carolina.hangai@gmail.com
 
